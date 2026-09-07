@@ -1,3 +1,10 @@
+/**
+ * Copyright (c) 2026 Ujjwal Kumar Bhowmick
+ * Developer: Ujjwal Kumar Bhowmick
+ * Email: ujjwalkumarbhowmick30@gmail.com
+ * All rights reserved.
+ */
+
 import { SuspiciousReport, Transaction, Account } from '../data/types.ts';
 import { mockAccounts } from '../data/accounts.ts';
 import { mockTransactions } from '../data/transactions.ts';

@@ -1,3 +1,10 @@
+/**
+ * Copyright (c) 2026 Ujjwal Kumar Bhowmick
+ * Developer: Ujjwal Kumar Bhowmick
+ * Email: ujjwalkumarbhowmick30@gmail.com
+ * All rights reserved.
+ */
+
 import { detectSmurfingPatterns, detectMuleRings, checkLiquidityStatus, checkCreditConcentrations } from '../engine/detectors.ts';
 import { searchRegulatoryPolicies } from '../engine/policyRag.ts';
 import { generateSTRReport, generateBaselLiquidityMemo } from '../engine/reportGenerator.ts';

@@ -1,3 +1,10 @@
+/**
+ * Copyright (c) 2026 Ujjwal Kumar Bhowmick
+ * Developer: Ujjwal Kumar Bhowmick
+ * Email: ujjwalkumarbhowmick30@gmail.com
+ * All rights reserved.
+ */
+
 import React from 'react';
 import { mockLiquidityMetrics, mockCreditExposures } from '../data/liquidityCredit.ts';
 import { BarChart3, TrendingDown, AlertTriangle, ShieldCheck, FileSpreadsheet, ArrowUpRight } from 'lucide-react';

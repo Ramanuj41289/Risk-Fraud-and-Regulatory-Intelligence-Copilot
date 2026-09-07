@@ -1,3 +1,10 @@
+/**
+ * Copyright (c) 2026 Ujjwal Kumar Bhowmick
+ * Developer: Ujjwal Kumar Bhowmick
+ * Email: ujjwalkumarbhowmick30@gmail.com
+ * All rights reserved.
+ */
+
 import { RegulatoryPolicy } from '../data/types.ts';
 import { mockRegulatoryPolicies } from '../data/regulatoryPolicies.ts';
 

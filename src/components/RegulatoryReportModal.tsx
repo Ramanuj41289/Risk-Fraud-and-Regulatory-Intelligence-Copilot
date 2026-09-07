@@ -1,3 +1,10 @@
+/**
+ * Copyright (c) 2026 Ujjwal Kumar Bhowmick
+ * Developer: Ujjwal Kumar Bhowmick
+ * Email: ujjwalkumarbhowmick30@gmail.com
+ * All rights reserved.
+ */
+
 import React from 'react';
 import { SuspiciousReport } from '../data/types.ts';
 import { Printer, Download, X, ShieldCheck, FileCheck, AlertCircle } from 'lucide-react';

@@ -1,3 +1,10 @@
+/**
+ * Copyright (c) 2026 Ujjwal Kumar Bhowmick
+ * Developer: Ujjwal Kumar Bhowmick
+ * Email: ujjwalkumarbhowmick30@gmail.com
+ * All rights reserved.
+ */
+
 import { LiquidityMetric, CreditExposure } from './types.ts';
 
 export const mockLiquidityMetrics: LiquidityMetric[] = [

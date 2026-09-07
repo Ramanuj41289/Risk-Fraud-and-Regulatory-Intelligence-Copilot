@@ -1,3 +1,10 @@
+/**
+ * Copyright (c) 2026 Ujjwal Kumar Bhowmick
+ * Developer: Ujjwal Kumar Bhowmick
+ * Email: ujjwalkumarbhowmick30@gmail.com
+ * All rights reserved.
+ */
+
 export type RiskCategory = 'LOW' | 'MEDIUM' | 'HIGH' | 'CRITICAL';
 export type KYCTier = 'TIER_1' | 'TIER_2' | 'TIER_3_SIMPLIFIED' | 'NON_COMPLIANT';
 export type AccountType = 'RETAIL_SAVINGS' | 'RETAIL_CURRENT' | 'SME_COMMERCIAL' | 'CORPORATE' | 'SHELL_COMPANY' | 'CORRESPONDENT';

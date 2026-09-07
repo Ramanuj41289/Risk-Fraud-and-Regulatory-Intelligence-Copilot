@@ -174,4 +174,14 @@ npm run build
 
 - **Real World Relevance**: Directly models mission-critical workflows faced daily by Tier-1 banks, NBFCs, and digital lenders (smurfing evasion, crypto off-ramps, liquidity crises, and central bank reporting).
 - **Technical Execution**: Strict TypeScript across data, analytical detectors, and UI components; modular separation between the engine and UI; zero lint or build errors; automated test suite.
-- **Solution Completeness**: Covers the entire lifecycle—from continuous background signal ingestion and graph visual inspection to natural language conversational inquiry and audit-ready statutory report compilation.
+- **Solution Completeness**: Covers the entire lifecycle—from continuous background signal ingestion and graph visual inspection to natural language conversational inquiry and audit-ready statutory report compilation.
+
+---
+
+## 📄 License & Copyright
+
+**Copyright (c) 2026 Ujjwal Kumar Bhowmick**  
+- **Developer**: Ujjwal Kumar Bhowmick  
+- **Email**: [ujjwalkumarbhowmick30@gmail.com](mailto:ujjwalkumarbhowmick30@gmail.com)  
+- **All rights reserved.**
+

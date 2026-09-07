@@ -1,3 +1,10 @@
+/**
+ * Copyright (c) 2026 Ujjwal Kumar Bhowmick
+ * Developer: Ujjwal Kumar Bhowmick
+ * Email: ujjwalkumarbhowmick30@gmail.com
+ * All rights reserved.
+ */
+
 import React, { useState, useRef, useEffect } from 'react';
 import { CopilotMessage, processCopilotQuery } from '../engine/copilotEngine.ts';
 import { SuspiciousReport, Transaction } from '../data/types.ts';
